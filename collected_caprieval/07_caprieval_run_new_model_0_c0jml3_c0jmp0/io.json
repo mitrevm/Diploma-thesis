@@ -1,0 +1,3388 @@
+{
+    "input": [
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_1.pdb",
+            "file_type": {
+                "py/reduce": [
+                    {
+                        "py/function": "builtins.getattr"
+                    },
+                    {
+                        "py/tuple": [
+                            {
+                                "py/type": "haddock.libs.libontology.Format"
+                            },
+                            "PDB"
+                        ]
+                    }
+                ]
+            },
+            "full_name": "emref_1.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_29.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_1.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "data",
+                            "06_emref",
+                            "c0jml3_c0jmp0.tbl"
+                        ]
+                    }
+                ]
+            },
+            "score": 171.41049999999998,
+            "seed": 920,
+            "topology": [
+                {
+                    "created": "2026-01-22 04:44:20",
+                    "file_name": "c0jml3_cleaned_haddock.psf",
+                    "file_type": {
+                        "py/reduce": [
+                            {
+                                "py/function": "builtins.getattr"
+                            },
+                            {
+                                "py/tuple": [
+                                    {
+                                        "py/type": "haddock.libs.libontology.Format"
+                                    },
+                                    "TOPOLOGY"
+                                ]
+                            }
+                        ]
+                    },
+                    "full_name": "c0jml3_cleaned_haddock.psf",
+                    "md5": null,
+                    "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/00_topoaa",
+                    "py/object": "haddock.libs.libontology.TopologyFile",
+                    "rel_path": {
+                        "py/reduce": [
+                            {
+                                "py/type": "pathlib.PosixPath"
+                            },
+                            {
+                                "py/tuple": [
+                                    "..",
+                                    "00_topoaa",
+                                    "c0jml3_cleaned_haddock.psf"
+                                ]
+                            }
+                        ]
+                    },
+                    "restr_fname": null
+                },
+                {
+                    "created": "2026-01-22 04:44:20",
+                    "file_name": "c0jmp0_cleaned_haddock.psf",
+                    "file_type": {
+                        "py/id": 8
+                    },
+                    "full_name": "c0jmp0_cleaned_haddock.psf",
+                    "md5": null,
+                    "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/00_topoaa",
+                    "py/object": "haddock.libs.libontology.TopologyFile",
+                    "rel_path": {
+                        "py/reduce": [
+                            {
+                                "py/type": "pathlib.PosixPath"
+                            },
+                            {
+                                "py/tuple": [
+                                    "..",
+                                    "00_topoaa",
+                                    "c0jmp0_cleaned_haddock.psf"
+                                ]
+                            }
+                        ]
+                    },
+                    "restr_fname": null
+                }
+            ],
+            "unw_energies": {
+                "air": 3210.43,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3174.04,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 15.1498,
+                "dihe": 0.0,
+                "elec": -441.995,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2692.05,
+                "vdw": -76.3833,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_2.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_2.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_14.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_2.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 181.5226,
+            "seed": 938,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3429.96,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3648.99,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 20.4762,
+                "dihe": 0.0,
+                "elec": -494.112,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2852.72,
+                "vdw": -83.1272,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_3.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_3.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_25.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_3.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 122.5546,
+            "seed": 962,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3140.24,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3480.42,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 20.1158,
+                "dihe": 0.0,
+                "elec": -480.456,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2544.29,
+                "vdw": -115.494,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_4.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_4.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_12.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_4.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 171.93069999999997,
+            "seed": 934,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3351.66,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3024.1,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 21.2044,
+                "dihe": 0.0,
+                "elec": -726.229,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2586.24,
+                "vdw": -39.1939,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_5.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_5.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_2.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_5.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 212.03680000000003,
+            "seed": 983,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3542.42,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3158.23,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 15.253,
+                "dihe": 0.0,
+                "elec": -405.761,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3060.36,
+                "vdw": -76.306,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_6.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_6.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_13.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_6.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 138.17139999999998,
+            "seed": 1010,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3011.47,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3634.59,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 26.4822,
+                "dihe": 0.0,
+                "elec": -344.564,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2546.36,
+                "vdw": -120.545,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_7.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_7.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_26.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_7.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 196.8881,
+            "seed": 996,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3350.54,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2925.88,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 27.7892,
+                "dihe": 0.0,
+                "elec": -478.418,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2801.85,
+                "vdw": -70.2715,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_8.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_8.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_18.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_8.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 201.26757,
+            "seed": 919,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3473.72,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2651.38,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 5.94517,
+                "dihe": 0.0,
+                "elec": -529.47,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2898.09,
+                "vdw": -46.1556,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_9.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_9.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_11.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_9.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 178.88742000000002,
+            "seed": 1016,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3426.67,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3203.61,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 9.02862,
+                "dihe": 0.0,
+                "elec": -447.135,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2896.16,
+                "vdw": -83.3812,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_10.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_10.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_46.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_10.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 141.18280000000001,
+            "seed": 927,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3310.74,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3359.75,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 24.5334,
+                "dihe": 0.0,
+                "elec": -534.953,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2668.35,
+                "vdw": -107.434,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_11.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_11.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_43.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_11.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 184.91120000000004,
+            "seed": 1008,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3501.69,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3366.69,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 20.6303,
+                "dihe": 0.0,
+                "elec": -434.042,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2968.57,
+                "vdw": -99.0797,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_12.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_12.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_38.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_12.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 232.10290000000006,
+            "seed": 940,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3788.01,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3559.53,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 17.1382,
+                "dihe": 0.0,
+                "elec": -511.009,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3215.36,
+                "vdw": -61.6345,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_13.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_13.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_41.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_13.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 243.31370000000004,
+            "seed": 1003,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3807.07,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2946.73,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 17.8801,
+                "dihe": 0.0,
+                "elec": -425.439,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3311.44,
+                "vdw": -70.1856,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_14.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_14.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_1.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_14.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 187.01680000000005,
+            "seed": 974,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3182.26,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2819.79,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 22.2131,
+                "dihe": 0.0,
+                "elec": -338.16,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2758.31,
+                "vdw": -85.7903,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_15.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_15.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_47.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_15.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 245.14940000000004,
+            "seed": 918,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3759.67,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2864.55,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 21.5334,
+                "dihe": 0.0,
+                "elec": -380.864,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3302.63,
+                "vdw": -76.1782,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_16.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_16.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_44.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_16.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 209.88700000000006,
+            "seed": 994,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3602.26,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3144.36,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 12.3866,
+                "dihe": 0.0,
+                "elec": -322.433,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3181.59,
+                "vdw": -98.239,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_17.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_17.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_30.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_17.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 216.01000000000005,
+            "seed": 990,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3593.04,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3097.5,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 22.4388,
+                "dihe": 0.0,
+                "elec": -526.078,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3006.44,
+                "vdw": -60.5172,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_18.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_18.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_37.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_18.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 220.26051999999999,
+            "seed": 925,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3746.24,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2848.53,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 5.65272,
+                "dihe": 0.0,
+                "elec": -411.059,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3257.38,
+                "vdw": -77.8044,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_19.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_19.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_16.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_19.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 216.10254000000003,
+            "seed": 971,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3491.71,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2611.93,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 3.83574,
+                "dihe": 0.0,
+                "elec": -378.198,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3052.25,
+                "vdw": -61.2646,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_20.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_20.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_7.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_20.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 205.477,
+            "seed": 955,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3387.73,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2725.66,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 13.2248,
+                "dihe": 0.0,
+                "elec": -355.859,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2956.52,
+                "vdw": -75.349,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_21.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_21.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_8.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_21.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 219.81920000000002,
+            "seed": 991,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3491.65,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2998.73,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 22.7753,
+                "dihe": 0.0,
+                "elec": -416.639,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3006.22,
+                "vdw": -68.7933,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_22.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_22.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_24.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_22.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 168.74060000000003,
+            "seed": 935,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3048.23,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2772.14,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 22.4405,
+                "dihe": 0.0,
+                "elec": -380.52,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2585.29,
+                "vdw": -82.4189,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_23.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_23.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_32.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_23.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 220.64920000000004,
+            "seed": 948,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3958.33,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3720.72,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 11.5782,
+                "dihe": 0.0,
+                "elec": -368.065,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3477.11,
+                "vdw": -113.149,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_24.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_24.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_3.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_24.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 195.2877,
+            "seed": 956,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3444.06,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 3128.86,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 24.3812,
+                "dihe": 0.0,
+                "elec": -406.097,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2945.69,
+                "vdw": -92.2801,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_25.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_25.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_36.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_25.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 265.37350000000004,
+            "seed": 921,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3729.5,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2511.78,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 11.8327,
+                "dihe": 0.0,
+                "elec": -379.192,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3306.74,
+                "vdw": -43.5708,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_26.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_26.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_21.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_26.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 232.72960000000003,
+            "seed": 1011,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3364.6,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2564.61,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 21.5012,
+                "dihe": 0.0,
+                "elec": -234.82,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3051.52,
+                "vdw": -78.2676,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_27.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_27.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_22.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_27.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 280.05559999999997,
+            "seed": 985,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3988.97,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2632.32,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 16.3413,
+                "dihe": 0.0,
+                "elec": -331.641,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3588.48,
+                "vdw": -68.8545,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_28.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_28.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_40.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_28.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 261.3095,
+            "seed": 967,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3613.28,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 1926.21,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 17.4248,
+                "dihe": 0.0,
+                "elec": -487.844,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3105.56,
+                "vdw": -19.8745,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_29.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_29.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_6.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_29.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 227.00120000000004,
+            "seed": 987,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3348.04,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2327.48,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 18.9645,
+                "dihe": 0.0,
+                "elec": -344.324,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2945.82,
+                "vdw": -57.9025,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_30.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_30.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_5.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_30.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 247.34888,
+            "seed": 943,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3492.93,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2320.89,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 5.41388,
+                "dihe": 0.0,
+                "elec": -230.423,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3201.24,
+                "vdw": -61.2734,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_31.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_31.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_15.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_31.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 227.67949999999996,
+            "seed": 999,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3235.2,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2809.27,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 18.3415,
+                "dihe": 0.0,
+                "elec": -258.348,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 2914.34,
+                "vdw": -62.5124,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_32.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_32.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_35.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_32.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 273.8501,
+            "seed": 975,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3719.71,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2452.63,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 13.9854,
+                "dihe": 0.0,
+                "elec": -308.304,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3360.96,
+                "vdw": -50.4455,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_33.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_33.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_49.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_33.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 228.2006,
+            "seed": 958,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3508.62,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2641.89,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 12.6986,
+                "dihe": 0.0,
+                "elec": -332.909,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3106.93,
+                "vdw": -68.7782,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_34.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_34.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_39.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_34.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 265.8113,
+            "seed": 993,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3849.06,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2658.77,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 19.2906,
+                "dihe": 0.0,
+                "elec": -338.275,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3440.05,
+                "vdw": -70.7303,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_35.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_35.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_4.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_35.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 229.3767,
+            "seed": 988,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3468.94,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2579.11,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 11.8366,
+                "dihe": 0.0,
+                "elec": -371.596,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3042.31,
+                "vdw": -55.0347,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_36.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_36.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_20.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_36.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 242.34910000000005,
+            "seed": 965,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3578.05,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2908.35,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 22.6518,
+                "dihe": 0.0,
+                "elec": -392.413,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3126.01,
+                "vdw": -59.6251,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_37.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_37.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_28.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_37.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 289.4984,
+            "seed": 1015,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3876.17,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2426.73,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 11.4327,
+                "dihe": 0.0,
+                "elec": -320.845,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3509.94,
+                "vdw": -45.3823,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_38.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_38.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_50.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_38.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 295.9074,
+            "seed": 942,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3813.38,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2293.83,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 26.5501,
+                "dihe": 0.0,
+                "elec": -327.987,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3439.01,
+                "vdw": -46.3833,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_39.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_39.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_48.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_39.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 276.2958,
+            "seed": 932,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3911.97,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2726.41,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 13.2252,
+                "dihe": 0.0,
+                "elec": -282.747,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3557.64,
+                "vdw": -71.577,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_40.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_40.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_33.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_40.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 275.383,
+            "seed": 946,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3920.22,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2162.16,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 17.6118,
+                "dihe": 0.0,
+                "elec": -336.826,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3516.5,
+                "vdw": -66.8856,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_41.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_41.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_19.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_41.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 234.64640000000003,
+            "seed": 982,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3455.42,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2332.78,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 4.1962,
+                "dihe": 0.0,
+                "elec": -300.965,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3099.56,
+                "vdw": -54.8988,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_42.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_42.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_42.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_42.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 280.34760000000006,
+            "seed": 950,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3785.46,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2723.22,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 10.827,
+                "dihe": 0.0,
+                "elec": -276.8,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3455.0,
+                "vdw": -53.6654,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_43.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_43.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_27.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_43.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 253.4308,
+            "seed": 986,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3474.37,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2205.3,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 19.9667,
+                "dihe": 0.0,
+                "elec": -354.935,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3076.45,
+                "vdw": -42.9859,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_44.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_44.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_31.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_44.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 248.88158000000004,
+            "seed": 998,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3573.21,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2015.15,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 5.66988,
+                "dihe": 0.0,
+                "elec": -364.795,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3167.27,
+                "vdw": -41.1503,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_45.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_45.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_17.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_45.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 257.6824000000001,
+            "seed": 926,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3382.57,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2358.25,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 11.0373,
+                "dihe": 0.0,
+                "elec": -261.792,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3081.52,
+                "vdw": -39.2535,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_46.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_46.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_9.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_46.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 261.9297,
+            "seed": 972,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3649.61,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2261.48,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 14.3538,
+                "dihe": 0.0,
+                "elec": -362.031,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3242.6,
+                "vdw": -44.9789,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_47.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_47.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_23.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_47.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 272.5715,
+            "seed": 928,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3592.1,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2408.84,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 16.8455,
+                "dihe": 0.0,
+                "elec": -316.637,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3235.3,
+                "vdw": -40.1566,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_48.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_48.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_10.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_48.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 268.1137,
+            "seed": 1002,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 3649.62,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2378.18,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 18.4047,
+                "dihe": 0.0,
+                "elec": -337.192,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3264.61,
+                "vdw": -47.8146,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_49.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_49.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_34.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_49.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 325.64360000000005,
+            "seed": 947,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 4092.29,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 2146.26,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 21.4448,
+                "dihe": 0.0,
+                "elec": -308.247,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3740.66,
+                "vdw": -43.3808,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        },
+        {
+            "clt_id": null,
+            "clt_model_rank": null,
+            "clt_rank": null,
+            "created": "2026-01-22 05:48:58",
+            "file_name": "emref_50.pdb",
+            "file_type": {
+                "py/id": 3
+            },
+            "full_name": "emref_50.pdb",
+            "len": NaN,
+            "md5": null,
+            "ori_name": "flexref_45.pdb",
+            "path": "/d/hpc/home/mm5129/Diplomska/New_Model_0/run_new_model_0_c0jml3_c0jmp0/06_emref",
+            "py/object": "haddock.libs.libontology.PDBFile",
+            "rel_path": {
+                "py/reduce": [
+                    {
+                        "py/type": "pathlib.PosixPath"
+                    },
+                    {
+                        "py/tuple": [
+                            "..",
+                            "06_emref",
+                            "emref_50.pdb"
+                        ]
+                    }
+                ]
+            },
+            "restr_fname": {
+                "py/id": 5
+            },
+            "score": 336.1578800000001,
+            "seed": 981,
+            "topology": [
+                {
+                    "py/id": 7
+                },
+                {
+                    "py/id": 10
+                }
+            ],
+            "unw_energies": {
+                "air": 4186.1,
+                "angles": 0.0,
+                "bonds": 0.0,
+                "bsa": 1998.85,
+                "cdih": 0.0,
+                "coup": 0.0,
+                "dani": 0.0,
+                "desolv": 8.85968,
+                "dihe": 0.0,
+                "elec": -270.989,
+                "improper": 0.0,
+                "rdcs": 0.0,
+                "rg": 0.0,
+                "sym": 0.0,
+                "total": 3878.0,
+                "vdw": -37.114,
+                "vean": 0.0,
+                "xpcs": 0.0
+            }
+        }
+    ],
+    "output": [
+        {
+            "py/id": 17
+        },
+        {
+            "py/id": 29
+        },
+        {
+            "py/id": 45
+        },
+        {
+            "py/id": 93
+        },
+        {
+            "py/id": 2
+        },
+        {
+            "py/id": 21
+        },
+        {
+            "py/id": 41
+        },
+        {
+            "py/id": 13
+        },
+        {
+            "py/id": 49
+        },
+        {
+            "py/id": 61
+        },
+        {
+            "py/id": 101
+        },
+        {
+            "py/id": 33
+        },
+        {
+            "py/id": 37
+        },
+        {
+            "py/id": 85
+        },
+        {
+            "py/id": 69
+        },
+        {
+            "py/id": 25
+        },
+        {
+            "py/id": 73
+        },
+        {
+            "py/id": 81
+        },
+        {
+            "py/id": 89
+        },
+        {
+            "py/id": 77
+        },
+        {
+            "py/id": 97
+        },
+        {
+            "py/id": 121
+        },
+        {
+            "py/id": 129
+        },
+        {
+            "py/id": 137
+        },
+        {
+            "py/id": 145
+        },
+        {
+            "py/id": 53
+        },
+        {
+            "py/id": 109
+        },
+        {
+            "py/id": 169
+        },
+        {
+            "py/id": 149
+        },
+        {
+            "py/id": 57
+        },
+        {
+            "py/id": 65
+        },
+        {
+            "py/id": 125
+        },
+        {
+            "py/id": 181
+        },
+        {
+            "py/id": 177
+        },
+        {
+            "py/id": 185
+        },
+        {
+            "py/id": 117
+        },
+        {
+            "py/id": 189
+        },
+        {
+            "py/id": 105
+        },
+        {
+            "py/id": 141
+        },
+        {
+            "py/id": 197
+        },
+        {
+            "py/id": 193
+        },
+        {
+            "py/id": 133
+        },
+        {
+            "py/id": 165
+        },
+        {
+            "py/id": 161
+        },
+        {
+            "py/id": 113
+        },
+        {
+            "py/id": 173
+        },
+        {
+            "py/id": 153
+        },
+        {
+            "py/id": 157
+        },
+        {
+            "py/id": 201
+        },
+        {
+            "py/id": 205
+        }
+    ]
+}
